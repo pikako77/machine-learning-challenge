@@ -1,5 +1,5 @@
 # machine-learning-challenge
-## Optional homework for machine learning
+Optional homework for machine learning
 
 ### Objective: Build a machine learning model
 
@@ -27,3 +27,7 @@ Scores obtained for:
 
 - set 3:<br>
 ![score_refine2.PNG](Images/score_refine2.PNG)<br>
+
+
+### Conclusion
+Tuning hyper-parameters to obtain a better model is time demanding. Trying to optimize parameters to obtain a better model might not be so meaningful as the amount of additional information is small. 
